@@ -1,0 +1,5 @@
+!a.log/
+!b.log/
+!c.log/
+!cashes/cache-1.txt/
+!cashes/cache-2.txt/
